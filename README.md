@@ -3,7 +3,7 @@ EDA of global video game market from a 2016 data set.
 
 Situation: Our client is a newly formed game company that would like to know more about the global market and customers' preferences. They want some insight on which publishers are popular, what kind of games they make, which region is most profitable, and what platform sells more.
 
-Our exploratory analysis lead us to the following conclusions:
+Our exploratory analysis led us to the following conclusions:
 
 1) The video game market saw a peak in revenue in 2009, before falling off again.
 
